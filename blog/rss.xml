@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Hoolie Projects Blog</title>
+        <link>https://hoolie.org/blog</link>
+        <description>Hoolie Projects Blog</description>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <item>
+            <title><![CDATA[Новый сайт]]></title>
+            <link>https://hoolie.org/blog/new-site</link>
+            <guid>new-site</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Теперь у студии новый временный сайт.]]></description>
+            <content:encoded><![CDATA[<p>Теперь у студии новый временный сайт.</p><p>На этом сайте мы будем публиковать различную информацию о новостях и планах нашей студии. За новостями вы можете
+следить в наших соц. сетях (ссылки в шапке сайта).</p><p>Сайт построен на открытой платформе <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a> и размещён на GitHub Pages. Репозиторий проекта:
+<a href="https://github.com/hoolie-projects/hoolie.org" target="_blank" rel="noopener noreferrer">https://github.com/hoolie-projects/hoolie.org</a>. Если вы хотите что-то изменить в этом сайте, создавайте Pull Request</p>]]></content:encoded>
+            <category>hoolie-projects</category>
+        </item>
+    </channel>
+</rss>

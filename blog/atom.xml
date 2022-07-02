@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hoolie.org/blog</id>
+    <title>Hoolie Projects Blog</title>
+    <updated>2022-07-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hoolie.org/blog"/>
+    <subtitle>Hoolie Projects Blog</subtitle>
+    <icon>https://hoolie.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Новый сайт]]></title>
+        <id>new-site</id>
+        <link href="https://hoolie.org/blog/new-site"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Теперь у студии новый временный сайт.]]></summary>
+        <content type="html"><![CDATA[<p>Теперь у студии новый временный сайт.</p><p>На этом сайте мы будем публиковать различную информацию о новостях и планах нашей студии. За новостями вы можете
+следить в наших соц. сетях (ссылки в шапке сайта).</p><p>Сайт построен на открытой платформе <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a> и размещён на GitHub Pages. Репозиторий проекта:
+<a href="https://github.com/hoolie-projects/hoolie.org" target="_blank" rel="noopener noreferrer">https://github.com/hoolie-projects/hoolie.org</a>. Если вы хотите что-то изменить в этом сайте, создавайте Pull Request</p>]]></content>
+        <author>
+            <name>Alexander Developer</name>
+            <uri>https://alyokhin22.org</uri>
+        </author>
+        <category label="hoolie-projects" term="hoolie-projects"/>
+    </entry>
+</feed>
