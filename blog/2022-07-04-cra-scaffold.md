@@ -1,6 +1,6 @@
 ---
 slug: cra-scaffold
-title: cra-scaffold
+title: CRA Scaffold
 authors: alyokhin
 tags: [open-source]
 ---

@@ -67,6 +67,11 @@ const config = {
             label: 'VK',
             position: 'right',
           },
+          {
+            href: 'https://alyokhin22.org/services',
+            label: 'Заказать услуги',
+            position: 'right',
+          },
         ],
       },
       // footer: {
