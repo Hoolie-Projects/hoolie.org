@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhoolie_org=self.webpackChunkhoolie_org||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"hoolie-projects","permalink":"/blog/tags/hoolie-projects","count":2},{"label":"open-source","permalink":"/blog/tags/open-source","count":1}]')}}]);
